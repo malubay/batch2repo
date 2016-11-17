@@ -1,0 +1,46 @@
+
+
+
+#body1{
+    background-color: #40d6ff;
+   margin: 1px 3px 4px 5px;
+    text-align: center;
+
+
+}
+
+#header1{
+    border: solid 5px;
+    text-align: center;
+}
+#nav1{
+    border: solid 2px;
+    margin: 10px;
+
+
+}
+#section1{
+    padding: 10px 5px 2px 2px;
+    border: solid 5px;
+    width: 40%;
+    margin: 10px 10px 10px 2px;
+    height: 450px;
+    float: left;
+
+}
+#header2{
+    border: solid 4px;
+}
+#nav2{
+    border: solid px;
+    margin: 50px;
+
+}
+#section2 {
+    padding: 10px 5px 2px 2px;
+    border: solid 5px;
+    width: 50%;
+    margin: 10px 10px 10px 2px;
+    height: 450px;
+    float: right;
+}
