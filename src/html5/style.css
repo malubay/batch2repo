@@ -12,6 +12,7 @@
 #header1{
     border: solid 5px;
     text-align: center;
+    margin: 5px 5px 5px 5px;
 }
 #nav1{
     border: solid 2px;
@@ -20,7 +21,7 @@
 
 }
 #section1{
-    padding: 10px 5px 2px 2px;
+    padding: 4px 5px 2px 2px;
     border: solid 5px;
     width: 40%;
     margin: 10px 10px 10px 2px;
@@ -29,12 +30,50 @@
 
 }
 #header2{
-    border: solid 4px;
+    border: solid 3px;
+    margin: 6px 0px 5px 0px ;
+    padding: 5px 0px 5px 0px;
 }
 #nav2{
-    border: solid px;
-    margin: 50px;
+    border: solid 3px;
+    margin-top: 10px;
+    padding: 10px 0px 310px 0px;
 
+}
+#footer1{
+    border: solid 3px;
+    padding: 5px 0px 5px 0px;
+    margin-top: 4px;
+}
+#header3{
+    border: solid 3px;
+    padding: 6px 0px 5px 0px;
+}
+#article1{
+    border: solid 3px;
+    margin-top: 5px ;
+    padding: 10px 0px 50px 0px;
+
+}
+#header4{
+    border: solid 3px;
+    padding: 6px 5px 5px 0px;
+    margin: 0px 5px 0px 5px;
+}
+#paragraph1{
+    border: solid 3px;
+    margin: 10px 5px 0px 5px;
+
+}
+#paragraph2 {
+    border: solid 3px;
+    margin: 10px 5px 0px 5px;
+
+}
+#footer2{
+    border: solid 3px;
+    padding: 5px 0px 5px 0px;
+    margin: 10px 5px 0px 5px;
 }
 #section2 {
     padding: 10px 5px 2px 2px;
